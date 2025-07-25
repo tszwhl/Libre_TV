@@ -142,10 +142,6 @@ const API_SITES = {
         api: 'https://ikunzyapi.com',
         name: 'iKun资源'
     },
-    fanying: {
-        api: 'http://饭太硬.com/tv',
-        name: '饭太硬'
-    },
 };
 
 // 添加聚合搜索的配置选项
